@@ -14,7 +14,7 @@ export const DefaultUserAgentAppendix = getUserAgentAppendix();
 export const DefaultRestOptions = {
 	agent: null,
 	api: 'https://discord.com/api',
-	authPrefix: 'Bot',
+	authPrefix: '',
 	cdn: 'https://cdn.discordapp.com',
 	headers: {},
 	invalidRequestWarningInterval: 0,
