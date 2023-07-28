@@ -19,6 +19,10 @@
 
 ## About
 
+This fork has one major change: It removes the part of the code that requires the use of a Discord Bot token. This library instead will use a user token.
+
+I do not condone the violation of the Discord Terms of Service. This is for educational purposes only. Use at your own risk.
+
 This repository contains multiple packages with separate [releases][github-releases]. You can find the assembled Discord API wrapper at [`discord.js`][source]. It is a powerful [Node.js](https://nodejs.org/en) module that allows you to easily interact with the [Discord API](https://discord.com/developers/docs/intro).
 
 ## Packages
